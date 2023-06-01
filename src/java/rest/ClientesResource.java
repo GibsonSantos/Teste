@@ -25,9 +25,8 @@ import static java.lang.Thread.sleep;
 @Path("acoes")
 public class ClientesResource {
 
-    ArrayList<Acao> acoes = new ArrayList<>();
 
-    public ClientesResource() {
+    /*public ClientesResource() {
     }
 
     @GET
@@ -125,5 +124,5 @@ public class ClientesResource {
             }
         }
         return null;
-    }
+    }*/
 }
