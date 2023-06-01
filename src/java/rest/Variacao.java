@@ -13,7 +13,7 @@ public class Variacao {
     private float variacao;
     
      public Variacao() {
-
+         System.out.print("asds");
     }
 
 
