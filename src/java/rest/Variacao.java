@@ -13,7 +13,7 @@ public class Variacao {
     private float variacao;
     
      public Variacao() {
-         System.out.print("asds asd ola");
+         System.out.print("asds asd ola ola hugo");
     }
 
 
